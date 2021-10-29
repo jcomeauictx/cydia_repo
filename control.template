@@ -1,0 +1,13 @@
+Package: net.unternet.jc.respring
+Name: Respring
+Version: 0.0.1
+Architecture: darwin-arm
+Depends: python (>= 2.3), bash
+Description: Respring instantly resprings your iDevice by sending a HUP signal
+ to Springboard. This enables you to put your device away without fear that
+ something in your pocket or purse might activate the touch screen and drain
+ the battery.
+Depiction: http://jc.unternet.net/respring/
+Maintainer: John Comeau <jc@unternet.net>
+Author: John Comeau <jc@unternet.net>
+Section: Utilities
